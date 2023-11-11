@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1698806069 source:c:\users\admin\codeblocksproj\mycproj003(calculus)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcs.h"
+
+1698805832 source:c:\users\admin\codeblocksproj\mycproj003(calculus)\func1.c
+	<math.h>
+
+1698805917 c:\users\admin\codeblocksproj\mycproj003(calculus)\funcs.h
+
